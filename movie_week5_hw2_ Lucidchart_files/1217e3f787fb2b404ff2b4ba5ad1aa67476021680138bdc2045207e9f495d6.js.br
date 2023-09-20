@@ -1,3 +1,0 @@
-function l_$$h(a,b){const c=a.bTa.value;if(!c)return!1;c.Ngb(b);a.dispatchEvent(l_6M);a.bTa.value=void 0;return!0}
-var l_7W=class extends l_5M{constructor(a,b,c){super(a);this.wu=b;this.Re=c;this.name="stamp-new-generator";this.Bgc=!0;this.bTa=new l_w(this,void 0,l_d)}cursor(){if(this.isPrimary&&this.bTa.value)return"move"}Ej(){return this.isPrimary&&!!this.bTa.value}Jo({Xb:a}){return this.isPrimary&&l_$$h(this,a.ab)}fS({element:a,Xb:b,zoom:c}){if(a instanceof l_AJ&&!l_5M.wea(b.ab,a,c,null))return this.isPrimary&&l_$$h(this,b.ab)}};l_7W=__decorate([l_s(),__metadata("design:paramtypes",[l_3M,l_xJ,l_UJ])],l_7W);
-//# sourceURL=/js/application/chart_app/chunk/gen_800000000000008000000000000000080400.js?compiled=1

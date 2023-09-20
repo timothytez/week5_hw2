@@ -1,2 +1,0 @@
-var l__Si=class{constructor(a){this.logger=a}readFile(a){const b=this;return l_c(function*(){return yield new Promise(c=>{const d=new FileReader;d.onload=e=>c(e.target.result);d.onerror=()=>{let e;b.logger.handleError({error:null!=(e=d.error)?e:Error("FileReaderUtil failed to read file."),severity:"Major"});c(void 0)};d.readAsText(a)})})}};l__Si=__decorate([l_s(),__metadata("design:paramtypes",[l_Sq])],l__Si);
-//# sourceURL=/js/application/chart_app/chunk/gen_100008000000000000000000000000000.js?compiled=1

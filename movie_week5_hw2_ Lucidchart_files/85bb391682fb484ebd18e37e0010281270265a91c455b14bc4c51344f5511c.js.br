@@ -1,2 +1,0 @@
-var l_a6h=class{constructor(a){this.name="alteredAdvancedShapeProperty";this.vf=a.vf;this.className=a.className;this.documentId=a.documentId;this.pm=a.pm;this.la=a.la;this.FLc=a.FLc;this.GLc=a.GLc;this.userId=a.userId}gb(){return{blockId:this.vf,className:this.className,documentId:this.documentId,shapeLibraryName:this.pm,shapeName:this.la,updatedProperty:this.FLc,updatedValue:this.GLc,userId:l_Rh.Ua(this.userId),name:this.name}}};
-//# sourceURL=/js/application/chart_app/chunk/gen_4000002001002000000000000100000000.js?compiled=1
